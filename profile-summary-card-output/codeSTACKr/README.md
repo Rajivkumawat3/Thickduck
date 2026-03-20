@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Rajivkumawat3/Thickduck/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
